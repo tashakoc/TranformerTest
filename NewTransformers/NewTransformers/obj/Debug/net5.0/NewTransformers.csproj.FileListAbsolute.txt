@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\NewTransformers\NewTransformers\bin\Debug\net5.0\NewTransformers.exe
+C:\Users\User\source\repos\NewTransformers\NewTransformers\bin\Debug\net5.0\NewTransformers.deps.json
+C:\Users\User\source\repos\NewTransformers\NewTransformers\bin\Debug\net5.0\NewTransformers.runtimeconfig.json
+C:\Users\User\source\repos\NewTransformers\NewTransformers\bin\Debug\net5.0\NewTransformers.runtimeconfig.dev.json
+C:\Users\User\source\repos\NewTransformers\NewTransformers\bin\Debug\net5.0\NewTransformers.dll
+C:\Users\User\source\repos\NewTransformers\NewTransformers\bin\Debug\net5.0\ref\NewTransformers.dll
+C:\Users\User\source\repos\NewTransformers\NewTransformers\bin\Debug\net5.0\NewTransformers.pdb
+C:\Users\User\source\repos\NewTransformers\NewTransformers\obj\Debug\net5.0\NewTransformers.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\NewTransformers\NewTransformers\obj\Debug\net5.0\NewTransformers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\NewTransformers\NewTransformers\obj\Debug\net5.0\NewTransformers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\NewTransformers\NewTransformers\obj\Debug\net5.0\NewTransformers.AssemblyInfo.cs
+C:\Users\User\source\repos\NewTransformers\NewTransformers\obj\Debug\net5.0\NewTransformers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NewTransformers\NewTransformers\obj\Debug\net5.0\NewTransformers.dll
+C:\Users\User\source\repos\NewTransformers\NewTransformers\obj\Debug\net5.0\ref\NewTransformers.dll
+C:\Users\User\source\repos\NewTransformers\NewTransformers\obj\Debug\net5.0\NewTransformers.pdb
+C:\Users\User\source\repos\NewTransformers\NewTransformers\obj\Debug\net5.0\NewTransformers.genruntimeconfig.cache
